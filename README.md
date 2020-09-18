@@ -1,2 +1,2 @@
 # JavaRushCosmostar
-Решенное задание а стажировку в JavaRush
+Решенное задание на стажировку в JavaRush
